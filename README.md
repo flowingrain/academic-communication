@@ -4,7 +4,11 @@
 给与不同样本不同权重、负样本生成
 ## 第二周 20190308 邰 
 迁移学习
+论文推荐：
 
+研讨论文推荐：
+Mutual Information Neural Estimation
+Dual Attention Networks for Multimodal Reasoning and Matching
 ## 第三周 20190315 夏
 图神经网络
 ## 第四周
