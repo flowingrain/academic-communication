@@ -7,7 +7,9 @@
 论文推荐：
 
 研讨论文推荐：
+
 Mutual Information Neural Estimation
+
 Dual Attention Networks for Multimodal Reasoning and Matching
 ## 第三周 20190315 夏
 图神经网络
