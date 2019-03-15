@@ -13,4 +13,11 @@ Mutual Information Neural Estimation
 Dual Attention Networks for Multimodal Reasoning and Matching
 ## 第三周 20190315 夏
 图神经网络
-## 第四周
+相关材料：
+aaai-grltutorial-part0-intro.pdf
+aaai-grltutorial-part1-nodereps.pdf
+aaai-grltutorial-part2-gnns.pdf
+GNN.pptx
+GNN与知识图谱结合相关调研.docx
+## 第四周 20190321 王
+图神经网络的应用
